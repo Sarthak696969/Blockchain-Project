@@ -15,6 +15,7 @@ LoyalCoin Blockchain Loyalty Rewards System is a groundbreaking solution that le
 - [Usage](#usage)
 - [Installation](#installation)
 - [Tech Stack](#tech-stack)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## About
@@ -22,3 +23,56 @@ My Awesome Project is an innovative platform that empowers businesses to reward 
 
 
 Super Admin Panel
+
+<div align="center">
+  <img src="https://github.com/yyppsk/Loyal-Coin-Blockchain-Loyalty-Reward-System/blob/master/RewardProcedure.gif" alt="Project Screenshot">
+</div>
+
+Ecommerce Display
+
+<div align="center">
+  <img src="https://github.com/yyppsk/Loyal-Coin-Blockchain-Loyalty-Reward-System/blob/master/multipleCartAdd.gif" alt="Project Screenshot">
+</div>
+
+Brands Display
+
+<div align="center">
+  <img src="https://github.com/yyppsk/Loyal-Coin-Blockchain-Loyalty-Reward-System/blob/master/DisplayBrands.gif" alt="Brands Display">
+</div>
+
+
+## Features
+- **E-Commerce Rewards:** Seamlessly integrate token rewards into your e-commerce platform, incentivizing purchases and increasing customer retention.
+- **Loyalty Programs:** Design and deploy loyalty programs that allow users to accumulate and redeem tokens for various rewards.
+- **Gaming and Entertainment:** Enhance user experiences in gaming and entertainment apps by introducing token-based rewards and interactions.
+- **Your Own Smart Contract** This Platform can be easily integrated with your own Smart Contract and Fungible token.
+- **E-commerce Platform Built In** Along with the dashboard for Super Admin, Brand's Admin & User's Dashboard(In Progress), I have integrated a Basic yet beautiful e-commerce platform for demonstration purposes.
+## Usage
+1. Clone the repository.
+2. Follow the installation steps detailed in the [Installation](#installation) section.
+3. Explore the codebase and customize it to your project's needs.
+4. Launch your application and witness the power of blockchain-based rewards!
+
+## Installation
+1. Install required dependencies: `npm install`.
+2. Run the application: `npm start` to start Server 1 for the Dashboard of Brands, which sets up a proxy server 2.
+3. Run the second server by: `node server.js` to start Server 2 for the rest of the platform.
+## Tech Stack
+This project is built using a diverse tech stack that includes:
+- Frontend: Html, Tailwind CSS
+- Backend: Node.js, Express
+- Blockchain: Ethereum, Solidity
+- Database: PostgreSQL
+
+## Contributing
+We welcome contributions from the community! If you'd like to contribute, please follow these steps:
+1. Fork the repository.
+2. Create a feature branch: `git checkout -b feature/your-feature-name`.
+3. Commit your changes: `git commit -m 'Add a new feature'`.
+4. Push to the branch: `git push origin feature/your-feature-name`.
+5. Open a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+
